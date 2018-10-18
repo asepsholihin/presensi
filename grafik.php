@@ -1,5 +1,5 @@
 <?php
-
+error_reporting(0);
 require "db_connect.php";
 $periode = $_GET['periode'];
 
